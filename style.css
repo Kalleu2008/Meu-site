@@ -24,3 +24,12 @@ img{
 .center {
     text-align: center;
 }
+
+img {
+    width: 300px;
+    transition: transform 0.5s;
+    cursor: pointer;
+}
+.imagem:hover {
+    transform: scale(1.1);
+}
