@@ -26,19 +26,6 @@ img {
     text-align: center;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-.container {
-    max-width: 10px;
-    margin:  0px;
-    padding: 30px;
-}
-
-
 .center {
     text-align: center;
 }
