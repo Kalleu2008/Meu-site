@@ -11,6 +11,11 @@ ul {
     align-items: center;
     padding: 16px;
 }
+
+.conteiner {
+    margin: 0 50px;
+}
+
 a {
     color: white;
     text-decoration: none ;
@@ -29,8 +34,4 @@ img{
 }
 .center {
     text-align: center;
-}
-
-.conteiner {
-    margin: 0 50px;
 }
