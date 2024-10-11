@@ -28,8 +28,8 @@ img {
 
 body {
     font-family: Arial, sans-serif;
-    margin: 0; /* Remove margens padrão do body */
-    padding: 0; /* Remove padding padrão do body */
+    margin: 0;
+    padding: 0;
 }
 
 .container {
