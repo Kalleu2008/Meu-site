@@ -10,24 +10,26 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 16px;
-}
-
-.conteiner {
-    padding: 0 20px;
-}
 
 a {
     color: white;
     text-decoration: none ;
 }
 
-img{
+img {
     width: 900px;
     height: 525px;
 }
 .center{
     text-align: center;
 }
+
+}
+
+.conteiner {
+    padding: 0 20px;
+}
+
 
 .center {
     text-align: center;
