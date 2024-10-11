@@ -16,6 +16,12 @@ a {
     text-decoration: none ;
 }
 
+}
+
+.conteiner {
+    margin: 0 50px;
+}
+
 img {
     width: 900px;
     height: 525px;
@@ -23,13 +29,6 @@ img {
 .center{
     text-align: center;
 }
-
-}
-
-.conteiner {
-    margin: 0 50px;
-}
-
 
 .center {
     text-align: center;
