@@ -36,7 +36,8 @@ img {
 .texto-pequeno {
     font-size: 10px;
 }
-Img{
+
+img { 
     width: 600px;
     height: 300px;
 }
