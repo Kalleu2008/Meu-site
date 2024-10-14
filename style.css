@@ -36,7 +36,10 @@ img {
 .texto-pequeno {
     font-size: 10px;
 }
-
+Img{
+    width: 600px;
+    height: 300px;
+}
 .center { 
     text-align: center;
 }
