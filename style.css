@@ -37,3 +37,7 @@ img {
 .texto-pequeno {
     font-size: 10px;
 }
+
+.container {
+    padding: 0  50px;
+}
