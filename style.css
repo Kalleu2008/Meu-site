@@ -38,6 +38,6 @@ img {
     font-size: 10px;
 }
 
-.div { 
-    transform: translate(20px, 20px;);
+.center {
+    text-align: center;
 }
